@@ -1,7 +1,9 @@
 ### Sahar Jafari
 
-Languages : JavaScript, Python
-Hobbies : Traveling and playing 🏐
+Fullstack web debeloper
+
+- Languages : JavaScript, Python
+- Hobbies : Traveling and playing 🏐
 
 
 <!--
